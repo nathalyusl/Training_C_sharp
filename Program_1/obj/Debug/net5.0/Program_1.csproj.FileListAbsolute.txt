@@ -1,0 +1,15 @@
+/Users/dianaaltamirano/RiderProjects/Program_1/Program_1/bin/Debug/net5.0/Program_1.deps.json
+/Users/dianaaltamirano/RiderProjects/Program_1/Program_1/bin/Debug/net5.0/Program_1.runtimeconfig.json
+/Users/dianaaltamirano/RiderProjects/Program_1/Program_1/bin/Debug/net5.0/Program_1.runtimeconfig.dev.json
+/Users/dianaaltamirano/RiderProjects/Program_1/Program_1/bin/Debug/net5.0/Program_1.dll
+/Users/dianaaltamirano/RiderProjects/Program_1/Program_1/bin/Debug/net5.0/ref/Program_1.dll
+/Users/dianaaltamirano/RiderProjects/Program_1/Program_1/bin/Debug/net5.0/Program_1.pdb
+/Users/dianaaltamirano/RiderProjects/Program_1/Program_1/obj/Debug/net5.0/Program_1.csproj.AssemblyReference.cache
+/Users/dianaaltamirano/RiderProjects/Program_1/Program_1/obj/Debug/net5.0/Program_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dianaaltamirano/RiderProjects/Program_1/Program_1/obj/Debug/net5.0/Program_1.AssemblyInfoInputs.cache
+/Users/dianaaltamirano/RiderProjects/Program_1/Program_1/obj/Debug/net5.0/Program_1.AssemblyInfo.cs
+/Users/dianaaltamirano/RiderProjects/Program_1/Program_1/obj/Debug/net5.0/Program_1.csproj.CoreCompileInputs.cache
+/Users/dianaaltamirano/RiderProjects/Program_1/Program_1/obj/Debug/net5.0/Program_1.dll
+/Users/dianaaltamirano/RiderProjects/Program_1/Program_1/obj/Debug/net5.0/ref/Program_1.dll
+/Users/dianaaltamirano/RiderProjects/Program_1/Program_1/obj/Debug/net5.0/Program_1.pdb
+/Users/dianaaltamirano/RiderProjects/Program_1/Program_1/obj/Debug/net5.0/Program_1.genruntimeconfig.cache
