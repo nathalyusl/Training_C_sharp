@@ -6,7 +6,13 @@ namespace Program_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Invertir números de dos cifras");
+            
+            //Inicializar variables
+            int num, aux, dec, uni;
+            string linea;
+            
+            Console.WriteLine("Ingrese un numero de dos cifras:");
         }
     }
 }
