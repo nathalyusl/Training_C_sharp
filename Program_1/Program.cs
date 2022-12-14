@@ -10,9 +10,15 @@ namespace Program_1
             
             //Inicializar variables
             int num, aux, dec, uni;
-            string linea;
+            string linea;  
             
+            //Capturar dato
             Console.WriteLine("Ingrese un numero de dos cifras:");
+            linea = Console.ReadLine();   //Recordar que el dato que se captura es string
+            
+            //Conversion
+            
+            
         }
     }
 }
