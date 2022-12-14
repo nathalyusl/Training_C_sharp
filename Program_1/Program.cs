@@ -17,8 +17,16 @@ namespace Program_1
             linea = Console.ReadLine();   //Recordar que el dato que se captura es string
             
             //Conversion
+
+            num = int.Parse(linea);
+            dec = num / 10;
+            uni = num % 10;
+
+            aux = (uni * 10) + dec;
             
-            
+            //Impresion de datos 
+            Console.WriteLine("El numero invetido es: {aux}");
+
         }
     }
 }
