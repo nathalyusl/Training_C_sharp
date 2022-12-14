@@ -25,7 +25,7 @@ namespace Program_1
             aux = (uni * 10) + dec;
             
             //Impresion de datos 
-            Console.WriteLine("El numero invetido es: {aux}");
+            Console.WriteLine("El numero invetido es:" + aux);
 
         }
     }
